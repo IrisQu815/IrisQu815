@@ -1,6 +1,6 @@
 # Hi 👋 I'm Xiao!
 
-- 🌱 I'm currently working as a **Data Engineer** at Springer Nature AI Lab, specializing in backend engineering and database structure.
+- 🌱 I'm working as a **Data Engineer** at Springer Nature AI Lab, specializing in backend engineering and database structure.
 - 🌏 M.Sc. in Data Science & Society program at Tilburg University, The Netherlands (fully funded).
 - 📘 My academic journey combines a strong foundation in **data science and communication**, giving me both the technical skills and cross-cultural perspective to solve complex problems.
 
